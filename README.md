@@ -71,7 +71,7 @@
   - Thuật toán:
       + Xây ma trận 5×5 từ khóa (ghi các chữ khóa không lặp, rồi các chữ cái còn lại).
       + Với digraph (a,b):  
-      . Nếu a và b cùng hàng → thay mỗi chữ bằng chữ bên phải tiếp theo (mã hóa) / trái (giải mã).
+            <br>Nếu a và b cùng hàng → thay mỗi chữ bằng chữ bên phải tiếp theo (mã hóa) / trái (giải mã).
       . Nếu cùng cột → thay bằng chữ bên dưới (mã hóa) / trên (giải mã).
       . Nếu khác hàng/cột → thay bằng 2 chữ ở hàng tương ứng và cột giao nhau (hình chữ nhật): a -> (row_a, col_b), b -> (row_b, col_a).
   - Không gian khóa: Ma trận 5×5 với 25 chữ cái → số khóa ~ 25! / (số cấu hình tương đương...) rất lớn.
