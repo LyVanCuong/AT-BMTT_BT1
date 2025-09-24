@@ -43,10 +43,10 @@
       + Brute force dùng 312 cặp.
       + Phân tích tần suất: với số lượng lớn văn bản, suy a,b bằng cách so khớp tần suất.
   - Kết quả mã hóa và giải mã ( hình ảnh):
-    + Mã hóa:
+    + Mã hóa: <br>
     <img width="697" height="460" alt="image" src="https://github.com/user-attachments/assets/d5e0a1ad-830c-471e-9320-7ac84dfb9aa7" />
 
-    + Giải mã:
+    + Giải mã: <br>
       <img width="723" height="471" alt="image" src="https://github.com/user-attachments/assets/1b7b31fd-7a0d-4731-b32a-b0bc4d9ecfce" />
 
 
@@ -61,10 +61,10 @@
       + Phân tích tần suất: đây là phương pháp mạnh nhất để phá substitution monoalphabetic: dùng tần suất chữ cái, bigram/trigram, phân tích mẫu từ, known plaintext.
       + Hill-climbing / simulated annealing: thuật toán tối ưu hóa trên không gian hoán vị với hàm mục tiêu là độ tương đồng tần suất n-gram.
   - Kết quả mã hóa và giải mã ( hình ảnh):
-      + Mã hóa:
+      + Mã hóa: <br>
      <img width="696" height="406" alt="image" src="https://github.com/user-attachments/assets/208863ec-6b67-425a-95de-7fed57823f2f" />
 
-      + Giải mã:
+      + Giải mã: <br>
       <img width="707" height="420" alt="image" src="https://github.com/user-attachments/assets/0d1644b0-96fd-48fe-b0b5-e9983e847541" />
 
 **4. Vigenère**
@@ -79,10 +79,10 @@
     + Friedman test: dùng chỉ số tương đồng để ước lượng m.
     + Khi biết m → phân chia văn bản thành m dãy, mỗi dãy là Caesar cipher → phá bằng phân tích tần suất / xác suất.
   - Kết quả mã hóa và giải mã ( hình ảnh):
-      + Mã hóa:
+      + Mã hóa: <br>
      <img width="745" height="434" alt="image" src="https://github.com/user-attachments/assets/aeb8e7f8-4564-4472-9cc4-fc75835df076" />
 
-      + Giải mã:
+      + Giải mã: <br>
       <img width="726" height="438" alt="image" src="https://github.com/user-attachments/assets/84771346-41b3-47cf-b080-df1b1ccb3d21" />
 
 **5. PlayFair**
@@ -102,8 +102,8 @@
       + Hill-climbing: tối ưu ma trận khoá để tăng likelihood (cách tương tự substitution nhưng dùng digram).
       + Known plaintext attacks: nếu biết một phần plaintext, suy ma trận.
   - Kết quả mã hóa và giải mã ( hình ảnh):
-      + Mã hóa:
+      + Mã hóa: <br>
     <img width="710" height="428" alt="image" src="https://github.com/user-attachments/assets/9dcac03f-c753-44d7-aaf5-fa5b8491feb3" />
 
-      + Giải mã:
+      + Giải mã: <br>
       <img width="710" height="429" alt="image" src="https://github.com/user-attachments/assets/66458827-cabd-4653-afa1-95f50f1eb176" />
