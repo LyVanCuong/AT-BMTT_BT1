@@ -24,6 +24,12 @@
       + Brute force: thử 26 giá trị k.
       + Phân tích tần suất: so sánh tần suất chữ cái -> khớp E -> suy k.
   - Kết quả mã hóa và giải mã ( hình ảnh):
+    + Mã hóa:
+      <img width="728" height="425" alt="image" src="https://github.com/user-attachments/assets/67eb51c7-d0a7-4ca4-9d9c-f1af22bc8257" />
+      
+    + Giải mã:
+      <img width="689" height="401" alt="image" src="https://github.com/user-attachments/assets/5f5962d8-ab8a-4b48-ba32-2c53f15eac06" />
+
 
 **2. Afine**
   - Tên gọi: Affine cipher: biến đổi affine trên modular 26
@@ -37,7 +43,13 @@
       + Brute force dùng 312 cặp.
       + Phân tích tần suất: với số lượng lớn văn bản, suy a,b bằng cách so khớp tần suất.
   - Kết quả mã hóa và giải mã ( hình ảnh):
-  - 
+    + Mã hóa:
+    <img width="697" height="460" alt="image" src="https://github.com/user-attachments/assets/d5e0a1ad-830c-471e-9320-7ac84dfb9aa7" />
+
+    + Giải mã:
+      <img width="723" height="471" alt="image" src="https://github.com/user-attachments/assets/1b7b31fd-7a0d-4731-b32a-b0bc4d9ecfce" />
+
+
 **3. Hoán Vị:**
   - Tên gọi: Permutation cipher (hoán vị chữ cái) — thường là monoalphabetic substitution defined by a permutation of alphabet
   - Thuật toán:
@@ -49,6 +61,11 @@
       + Phân tích tần suất: đây là phương pháp mạnh nhất để phá substitution monoalphabetic: dùng tần suất chữ cái, bigram/trigram, phân tích mẫu từ, known plaintext.
       + Hill-climbing / simulated annealing: thuật toán tối ưu hóa trên không gian hoán vị với hàm mục tiêu là độ tương đồng tần suất n-gram.
   - Kết quả mã hóa và giải mã ( hình ảnh):
+      + Mã hóa:
+     <img width="696" height="406" alt="image" src="https://github.com/user-attachments/assets/208863ec-6b67-425a-95de-7fed57823f2f" />
+
+      + Giải mã:
+      <img width="707" height="420" alt="image" src="https://github.com/user-attachments/assets/0d1644b0-96fd-48fe-b0b5-e9983e847541" />
 
 **4. Vigenère**
   - Tên gọi: Vigenère cipher — polyalphabetic substitution dùng khóa chữ.
@@ -62,7 +79,12 @@
     + Friedman test: dùng chỉ số tương đồng để ước lượng m.
     + Khi biết m → phân chia văn bản thành m dãy, mỗi dãy là Caesar cipher → phá bằng phân tích tần suất / xác suất.
   - Kết quả mã hóa và giải mã ( hình ảnh):
-    
+      + Mã hóa:
+     <img width="745" height="434" alt="image" src="https://github.com/user-attachments/assets/aeb8e7f8-4564-4472-9cc4-fc75835df076" />
+
+      + Giải mã:
+      <img width="726" height="438" alt="image" src="https://github.com/user-attachments/assets/84771346-41b3-47cf-b080-df1b1ccb3d21" />
+
 **5. PlayFair**
   - Tên gọi: Playfair cipher — mã hai chữ một (digraph cipher) dùng ma trận 5×5.
   - Quy ước riêng của thuật toán PlayFair:
@@ -80,3 +102,8 @@
       + Hill-climbing: tối ưu ma trận khoá để tăng likelihood (cách tương tự substitution nhưng dùng digram).
       + Known plaintext attacks: nếu biết một phần plaintext, suy ma trận.
   - Kết quả mã hóa và giải mã ( hình ảnh):
+      + Mã hóa:
+    <img width="710" height="428" alt="image" src="https://github.com/user-attachments/assets/9dcac03f-c753-44d7-aaf5-fa5b8491feb3" />
+
+      + Giải mã:
+      <img width="710" height="429" alt="image" src="https://github.com/user-attachments/assets/66458827-cabd-4653-afa1-95f50f1eb176" />
