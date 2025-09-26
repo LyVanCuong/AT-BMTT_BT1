@@ -57,6 +57,15 @@
 
     + Giải mã: <br>
       <img width="723" height="471" alt="image" src="https://github.com/user-attachments/assets/1b7b31fd-7a0d-4731-b32a-b0bc4d9ecfce" />
+      
+    **  C++:**
+    + Mã hóa: <br>
+    
+      <img width="435" height="372" alt="image" src="https://github.com/user-attachments/assets/e662c448-c0b3-4fc4-a30f-e629c1246ad2" />
+
+    + Giải mã: <br>
+    
+      <img width="387" height="362" alt="image" src="https://github.com/user-attachments/assets/fa75be57-7983-48e4-a0bb-ab4236ccd799" />
 
 
 **3. Hoán Vị:**
