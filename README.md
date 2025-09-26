@@ -32,7 +32,7 @@
       <img width="689" height="401" alt="image" src="https://github.com/user-attachments/assets/5f5962d8-ab8a-4b48-ba32-2c53f15eac06" />
 
     **  C++:**
-     + Mã hóa: <br>
+    + Mã hóa: <br>
 <img width="487" height="384" alt="image" src="https://github.com/user-attachments/assets/2b5d52d0-7e17-448b-82bc-a357d67630f3" />
       
     + Giải mã:<br>
