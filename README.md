@@ -84,13 +84,25 @@
       + Hill-climbing / simulated annealing: thuật toán tối ưu hóa trên không gian hoán vị với hàm mục tiêu là độ tương đồng tần suất n-gram.
   - Kết quả mã hóa và giải mã ( hình ảnh): <br>
 
-    HTML, JS, CSS
+    HTML, JS, CSS:
     
       + Mã hóa: <br>
      <img width="696" height="406" alt="image" src="https://github.com/user-attachments/assets/208863ec-6b67-425a-95de-7fed57823f2f" />
 
       + Giải mã: <br>
       <img width="707" height="420" alt="image" src="https://github.com/user-attachments/assets/0d1644b0-96fd-48fe-b0b5-e9983e847541" />
+
+    C++:
+    
+     + Mã hóa: <br>
+     
+     <img width="495" height="372" alt="image" src="https://github.com/user-attachments/assets/8f0f1af0-4654-4a0a-bc45-fb0752534605" />
+
+
+      + Giải mã: <br>
+        
+      <img width="501" height="381" alt="image" src="https://github.com/user-attachments/assets/26f0dc68-148b-4ef0-8e43-96fd3c5b15dd" />
+
 
 **4. Vigenère**
   - Tên gọi: Vigenère cipher — polyalphabetic substitution dùng khóa chữ.
@@ -103,12 +115,26 @@
     + Kasiski test: tìm khoảng cách giữa các mẫu lặp lại để ước lượng độ dài khóa m.
     + Friedman test: dùng chỉ số tương đồng để ước lượng m.
     + Khi biết m → phân chia văn bản thành m dãy, mỗi dãy là Caesar cipher → phá bằng phân tích tần suất / xác suất.
-  - Kết quả mã hóa và giải mã ( hình ảnh):
+  - Kết quả mã hóa và giải mã ( hình ảnh): <br>
+
+    HTML, JS, CSS:
+    
       + Mã hóa: <br>
      <img width="745" height="434" alt="image" src="https://github.com/user-attachments/assets/aeb8e7f8-4564-4472-9cc4-fc75835df076" />
 
       + Giải mã: <br>
       <img width="726" height="438" alt="image" src="https://github.com/user-attachments/assets/84771346-41b3-47cf-b080-df1b1ccb3d21" />
+
+    C++:
+
+      + Mã hóa: <br>
+     <img width="463" height="360" alt="image" src="https://github.com/user-attachments/assets/d50bd61d-d113-40d5-820a-f35f991328c9" />
+
+
+      + Giải mã: <br>
+
+       <img width="522" height="370" alt="image" src="https://github.com/user-attachments/assets/a8b831d3-c111-4ead-a55c-be0691cd69cc" />
+
 
 **5. PlayFair**
   - Tên gọi: Playfair cipher — mã hai chữ một (digraph cipher) dùng ma trận 5×5.
