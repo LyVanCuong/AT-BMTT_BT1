@@ -163,10 +163,11 @@
       <img width="710" height="429" alt="image" src="https://github.com/user-attachments/assets/66458827-cabd-4653-afa1-95f50f1eb176" />
 
   C++: 
-      + Mã hóa: <br>
+  + Mã hóa: <br>
+      
       <img width="449" height="357" alt="image" src="https://github.com/user-attachments/assets/a5d7151d-08e3-4ac1-8e7e-b4fe1122687b" />
 
-      + Giải mã: <br>
+  + Giải mã: <br>
       
-  <img width="478" height="349" alt="image" src="https://github.com/user-attachments/assets/bfa79ee7-d923-4920-ad47-3929352ea475" />
+      <img width="478" height="349" alt="image" src="https://github.com/user-attachments/assets/bfa79ee7-d923-4920-ad47-3929352ea475" />
 
