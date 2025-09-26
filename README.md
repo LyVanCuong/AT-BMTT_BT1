@@ -152,9 +152,21 @@
       + Phân tích digram (tần suất cặp chữ): Playfair làm thay đổi phân bố digram nên dùng phân tích digram + heuristics.
       + Hill-climbing: tối ưu ma trận khoá để tăng likelihood (cách tương tự substitution nhưng dùng digram).
       + Known plaintext attacks: nếu biết một phần plaintext, suy ma trận.
-  - Kết quả mã hóa và giải mã ( hình ảnh):
+  - Kết quả mã hóa và giải mã ( hình ảnh): <br>
+
+    HTML, JS, CSS:
+    
       + Mã hóa: <br>
     <img width="710" height="428" alt="image" src="https://github.com/user-attachments/assets/9dcac03f-c753-44d7-aaf5-fa5b8491feb3" />
 
       + Giải mã: <br>
       <img width="710" height="429" alt="image" src="https://github.com/user-attachments/assets/66458827-cabd-4653-afa1-95f50f1eb176" />
+
+  C++: 
+      + Mã hóa: <br>
+      <img width="449" height="357" alt="image" src="https://github.com/user-attachments/assets/a5d7151d-08e3-4ac1-8e7e-b4fe1122687b" />
+
+      + Giải mã: <br>
+      
+  <img width="478" height="349" alt="image" src="https://github.com/user-attachments/assets/bfa79ee7-d923-4920-ad47-3929352ea475" />
+
