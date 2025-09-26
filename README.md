@@ -33,11 +33,12 @@
 
     **  C++:**
     + Mã hóa: <br>
-<img width="487" height="384" alt="image" src="https://github.com/user-attachments/assets/2b5d52d0-7e17-448b-82bc-a357d67630f3" />
+    
+      <img width="487" height="384" alt="image" src="https://github.com/user-attachments/assets/2b5d52d0-7e17-448b-82bc-a357d67630f3" />
       
     + Giải mã: 
     
-  <img width="330" height="350" alt="image" src="https://github.com/user-attachments/assets/60c27d7c-ba5a-4805-a01e-0e0963f6f742" />
+      <img width="330" height="350" alt="image" src="https://github.com/user-attachments/assets/60c27d7c-ba5a-4805-a01e-0e0963f6f742" />
 
 **2. Afine**
   - Tên gọi: Affine cipher: biến đổi affine trên modular 26
