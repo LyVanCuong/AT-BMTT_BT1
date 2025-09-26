@@ -23,15 +23,15 @@
   - Cách phá (không cần khóa)
       + Brute force: thử 26 giá trị k.
       + Phân tích tần suất: so sánh tần suất chữ cái -> khớp E -> suy k.
-  - Kết quả mã hóa và giải mã ( hình ảnh):
-   ** HTML, JS, CSS**
+  - Kết quả mã hóa và giải mã ( hình ảnh): <br>
+    HTML, JS, CSS
     + Mã hóa: <br>
       <img width="728" height="425" alt="image" src="https://github.com/user-attachments/assets/67eb51c7-d0a7-4ca4-9d9c-f1af22bc8257" />
       
     + Giải mã:<br>
       <img width="689" height="401" alt="image" src="https://github.com/user-attachments/assets/5f5962d8-ab8a-4b48-ba32-2c53f15eac06" />
 
-    **  C++:**
+     C++:
     + Mã hóa: <br>
     
       <img width="487" height="384" alt="image" src="https://github.com/user-attachments/assets/2b5d52d0-7e17-448b-82bc-a357d67630f3" />
