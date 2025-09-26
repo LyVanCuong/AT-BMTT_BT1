@@ -51,7 +51,10 @@
   - Cách phá (không cần khóa):
       + Brute force dùng 312 cặp.
       + Phân tích tần suất: với số lượng lớn văn bản, suy a,b bằng cách so khớp tần suất.
-  - Kết quả mã hóa và giải mã ( hình ảnh):
+  - Kết quả mã hóa và giải mã ( hình ảnh): <br>
+
+    HTML, JS, CSS:
+    
     + Mã hóa: <br>
     <img width="697" height="460" alt="image" src="https://github.com/user-attachments/assets/d5e0a1ad-830c-471e-9320-7ac84dfb9aa7" />
 
@@ -79,7 +82,10 @@
   - Cách phá (không cần khóa):
       + Phân tích tần suất: đây là phương pháp mạnh nhất để phá substitution monoalphabetic: dùng tần suất chữ cái, bigram/trigram, phân tích mẫu từ, known plaintext.
       + Hill-climbing / simulated annealing: thuật toán tối ưu hóa trên không gian hoán vị với hàm mục tiêu là độ tương đồng tần suất n-gram.
-  - Kết quả mã hóa và giải mã ( hình ảnh):
+  - Kết quả mã hóa và giải mã ( hình ảnh): <br>
+
+    HTML, JS, CSS
+    
       + Mã hóa: <br>
      <img width="696" height="406" alt="image" src="https://github.com/user-attachments/assets/208863ec-6b67-425a-95de-7fed57823f2f" />
 
